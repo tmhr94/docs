@@ -1,6 +1,8 @@
 # docs
 当ドキュメントは開発から一定期間離れた場合を想定し、このドキュメントを見返すことで開発をある一定のレベルをもって再開可能にすることを目的としています。
 
+<!-- 参考: https://gist.github.com/rikoroku/8bebb777f3bf252918b557c7984ba703 --->
+
 最新動向: https://roadmap.sh/
 
 ## Table of contents

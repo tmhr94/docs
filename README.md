@@ -18,3 +18,4 @@
 - [DB関連](https://github.com/rikoroku/docs/wiki/DB%E9%96%A2%E9%80%A3)
 - [DDD](https://github.com/rikoroku/docs/wiki/DDD)
 - [エディタ](https://github.com/rikoroku/docs/wiki/%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF)
+- [JavaScript](https://github.com/rikoroku/docs/wiki/JavaScript)

@@ -9,7 +9,8 @@ VSCodeを使う。
 - `cmd + p`: ファイルジャンプ
 - `cmd + o`: ファイルを開く
 - `cmd + shift + f`: 全ファイル内検索
-- `cmd + shift + e`: 左パネルに移動。再度実行で右パネルに戻る(vimライクに移動可能)
+- `ctrl + cmd + e`: 左パネルに移動。再度実行で右パネルに戻る(vimライクに移動可能)
+- `ctrl + c`: ファイルの相対パスコピー(左パネルフォーカス時)
 - `cmd + click`: Go to Definition
 - `cmd + right click`: その他アクション表示
 - `cmd + f`: ファイル内検索

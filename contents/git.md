@@ -58,4 +58,5 @@ $ git rebase --continue
 $ git commit --amend
 $ git push origin -f
 $ git rebase -i master
+$ git log -p [file path]
 ```

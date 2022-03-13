@@ -15,8 +15,6 @@
 - [OOP](./contents/oop.md)
 - [リーダブルコード](./contents/readable_code.md)
 - [Rails開発](./contents/rails.md)
-- [DB関連](./contents/database.md)
-- [DDD](./contents/ddd.md)
 - [エディタ](./contents/editor.md)
 - [JavaScript](./contents/javascript.md)
 - [temp](./contents/temp.md)

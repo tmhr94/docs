@@ -12,6 +12,7 @@ VSCodeを使う。
 - `cmd + shift + e`: 左パネルに移動。再度実行で右パネルに戻る(vimライクに移動可能)
 - `cmd + click`: Go to Definition
 - `cmd + right click`: その他アクション表示
+- `cmd + f`: ファイル内検索
 - `shift + alt + cursor moving`: 矩形選択
 - `ctrl + q`: 左パネルの切り替え
 - `cmd + b`: 左パネルの表示/非表示

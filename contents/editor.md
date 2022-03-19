@@ -11,13 +11,16 @@ VSCodeを使う。
 - `cmd + shift + f`: 全ファイル内検索
 - `ctrl + cmd + e`: 左パネルに移動。再度実行で右パネルに戻る(vimライクに移動可能)
 - `ctrl + c`: ファイルの相対パスコピー(左パネルフォーカス時)
-- `cmd + click`: Go to Definition
+- `cmd + j`: Go to Definition
+- `cmd + l`: URLを開く
+- `cmd + i`: サジェスト表示
 - `cmd + right click`: その他アクション表示
 - `cmd + f`: ファイル内検索
-- `shift + alt + cursor moving`: 矩形選択
+- `ctrl + v`: 矩形選択
 - `ctrl + q`: 左パネルの切り替え
 - `cmd + b`: 左パネルの表示/非表示
-- `ctrl + tab`: 開いているファイル簡単移動
+- `ctrl + h`: 左のタブに移動
+- `ctrl + l`: 右のタブに移動
 
 ## VSCode Neovim
 ### ショートカット(for Mac)

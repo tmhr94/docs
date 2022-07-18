@@ -7,6 +7,7 @@
 
 ## Table of contents
 
+- [PRレビュー依頼時のチェックリスト](./contents/pr.md)
 - [業務関連](./contents/general.md)
 - [保守性の高いコードを書くために](./contents/serviceability.md)
 - [プログラミング全般](./contents/programming.md)

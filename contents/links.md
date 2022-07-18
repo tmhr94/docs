@@ -9,8 +9,7 @@ What is this: 使えるサイトをまとめたもの
 | [awesome](https://github.com/sindresorhus/awesome) | awesomeなリポジトリ紹介 |
 | [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | フロントエンド公開時にチェックしたいもの紹介 |
 | [藤岡拓太郎の公式サイト](https://www.takutaro.com/) | 笑いたい時におすすめ |
+| [microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md) | マイクロソフトが公開しているAPIガイドライン |
 | []() |  |
 | []() |  |
 | []() |  |
-| []() |  |
-
